@@ -2,10 +2,8 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=150&section=header&text=Hafsa%20Waqar&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hafsa-2625&color=blueviolet&style=flat-square">
-  <img src="https://img.shields.io/github/followers/Hafsa-2625?style=social">
-</p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="400">
+<br><br>
 
 ---
 
